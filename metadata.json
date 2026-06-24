@@ -1,0 +1,6 @@
+{
+  "name": "ApnaBazaar E-Commerce",
+  "description": "A feature-rich e-commerce application inspired by Amazon and Flipkart, featuring bilingual support (Hindi/English), a dynamic shopping cart, interactive product catalog, custom filters, order history, and an AI Shopping Assistant powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
